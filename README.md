@@ -1,4 +1,4 @@
-# [ICLR2021 Oral] Free Lunch for Few-Shot Learning: Distribution Calibration
+# [Reproducability Challenge 2021] Free Lunch for Few-Shot Learning: Distribution Calibration
 
 paper link: https://openreview.net/forum?id=JWOiYxMG92s
 
