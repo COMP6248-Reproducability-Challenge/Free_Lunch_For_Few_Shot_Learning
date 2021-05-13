@@ -2,6 +2,15 @@
 
 Original paper link: https://openreview.net/forum?id=JWOiYxMG92s
 
+## Requirements
+
+numpy==1.17.2
+matplotlib==3.1.1
+tqdm==4.36.1
+torchvision==0.6.0
+torch==1.5.0
+Pillow==7.1.2
+
 
 ### You can directly download the extracted features/pretrained models from the link:
 https://drive.google.com/drive/folders/1IjqOYLRH0OwkMZo8Tp4EG02ltDppi61n?usp=sharing
