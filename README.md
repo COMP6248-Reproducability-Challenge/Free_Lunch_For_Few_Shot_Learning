@@ -18,8 +18,8 @@ python evaluate_DC.py
 ```
 ## Team members
 
-Yijun    Chen             yc16g20@soton.ac.uk
-Shuning  Ling             sl4m20@soton.ac.uk
+Yijun    Chen             yc16g20@soton.ac.uk,
+Shuning  Ling             sl4m20@soton.ac.uk,
 Pasinpat Vitoochuleechoti pv1u20@soton.ac.uk
 
 ## Original Code
